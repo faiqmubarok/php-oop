@@ -1,10 +1,8 @@
-<!-- 
-Public - Bisa diakses dari MANA SAJA (dari dalam class, subclass, atau luar)
-Protected - Bisa diakses hanya dari dalam CLASS dan SUBCLASS-nya
-Private - Hanya bisa diakses dari dalam CLASS itu sendiri (TIDAK bisa dari subclass)
--->
-
 <?php
+
+// Public - Bisa diakses dari MANA SAJA (dari dalam class, subclass, atau luar)
+// Protected - Bisa diakses hanya dari dalam CLASS dan SUBCLASS-nya
+// Private - Hanya bisa diakses dari dalam CLASS itu sendiri (TIDAK bisa dari subclass)
 
 class User
 {
